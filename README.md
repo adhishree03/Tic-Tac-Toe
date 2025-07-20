@@ -12,13 +12,8 @@ A simple and interactive web-based Tic-Tac-Toe game built with HTML and JavaScri
 ## 🛠️ Technologies Used
 
 - HTML
+- CSS
 - JavaScript
-
-## 📂 Project Structure
-
-Tic-Tac-toe/
-├── tictac.html      # Main HTM-TL file
-└── tictactoe.js     # JavaScript logic
 
 ## 🚀 How to Run
 
