@@ -19,9 +19,9 @@ A simple and interactive web-based Tic-Tac-Toe game built with HTML and JavaScri
 
 Game Interface
 
-![Screenshot 1](Tic-Tac-toe/assest/TicTacToe - Personal - Microsoft​ Edge 20-07-2025 20_39_04.png)
+![Screenshot 1](Tic-Tac-toe/assest/Tic-Tac-toe/assests/screenshot3.png)
 
-![Screenshot 2](Tic-Tac-toe/assest/TicTacToe - Personal - Microsoft​ Edge 20-07-2025 20_39_19.png)
+![Screenshot 2](Tic-Tac-toe/assests/screenshot2.png)
 
 
 
